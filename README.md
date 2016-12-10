@@ -1,2 +1,2 @@
-# Taller Pensamiento Virtual
+# Taller Pensamiento Visual
 
