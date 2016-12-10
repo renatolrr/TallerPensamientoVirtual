@@ -1,4 +1,4 @@
-# Taller Pensamiento Virtual
+# Taller Pensamiento Visual
 
 Insertar gh-pages
 
