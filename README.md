@@ -1,1 +1,2 @@
-# TallerPensamientoVirtual
+# Taller Pensamiento Virtual
+
